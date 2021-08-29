@@ -1,4 +1,0 @@
-独学プログラマーのチャレンジ
-lessonごとに分けています。
-git add
-git comitt
